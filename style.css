@@ -1,0 +1,32 @@
+form div {
+	margin-bottom: 0.75em;
+}
+
+h1 { color: #ffffff; }
+
+h3 { margin: 1.5em 0 0.5em; }
+
+.header {
+	margin-bottom: 3em;
+	padding: 4em 0 2em;
+	background-color: #db3927; 
+}
+
+.cta {
+	margin: 2em 0;
+}
+
+.signature-html-source-wrapper {
+	position: absolute;
+	left: -999em;
+}
+
+.signature-html-preview-wrapper {
+	margin-top: 1em;
+	padding: 1em;
+	border: 1px #cccccc solid;
+}
+
+::placeholder {
+	color: #cccccc;
+}
